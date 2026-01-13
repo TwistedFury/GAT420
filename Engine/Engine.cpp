@@ -3,5 +3,5 @@
 
 void InitializeEngine()
 {
-	std::cout << "Engine Initialized!\n";
+	std::cout << "New Engine Initialized!\n";
 }
